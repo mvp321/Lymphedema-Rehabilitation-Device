@@ -1,0 +1,4 @@
+Constrained Instances: 'hand model-1', 'hand model-1', 'Left_side_assembly-1/Motor case v10 v26-1', 'Left_side_assembly-1/Motor case v10 v26-1'
+Constraint Name: Width3
+Error Details: Constraint is not supported. The constraint has been ignored.
+---------------------------------------------------------------------------------

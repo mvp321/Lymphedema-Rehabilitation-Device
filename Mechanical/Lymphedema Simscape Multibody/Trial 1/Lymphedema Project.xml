@@ -1,0 +1,334 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<SimscapeMultibodyImportXML version="2.0" xmlns="urn:mathworks:SimscapeMultibody:import" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+<Created by="" on="09/21/20||01:50:43" using="Simscape Multibody Link Version 6.1" from="SolidWorks 27.2.0"/>
+<ModelUnits mass="kilogram" length="millimeter"/>
+<DataUnits mass="kilogram" length="meter"/>
+<RootAssembly name="Lymphedema Project" uid="Lymphedema Project" version="139">
+<AssemblyFile name="Lymphedema Project.SLDASM" type="SolidWorks Assembly"/>
+<InstanceTree>
+<Instance name="Right_side_assembly-1" uid="Right_side_assembly-1" grounded="true" entityUid="Right_side_assembly" rigid="true">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0.080689777187525097 0.068115127801574749 0.21155712455117134</Translation>
+</Transform>
+<Instance name="Motor case 2 v24-1" uid="Motor case 2 v24-1" grounded="true" entityUid="Motor case 2 v24*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>-0.10943334559550839 0.015818632027712262 -0.011467347837229691</Translation>
+</Transform>
+</Instance>
+<Instance name="wheel v5-1" uid="wheel v5-1" entityUid="wheel v5*:*Default">
+<Transform>
+<Rotation>0 0 1 -0.0090785859414694286 0.99995878878946987 0 -0.99995878878946987 -0.0090785859414694286 0</Rotation>
+<Translation>-0.072433345595508403 0.031818632529056451 -0.012967677489878593</Translation>
+</Transform>
+</Instance>
+<Instance name="AX 12 v2-1" uid="AX 12 v2-1" entityUid="AX 12 v2" rigid="true">
+<Transform>
+<Rotation>0 0 1 -1 3.7701215007045013e-09 0 -3.7701215007045013e-09 -1 0</Rotation>
+<Translation>-0.092082214476364402 0.038207521339135936 -0.00094882922165215322</Translation>
+</Transform>
+<Instance name="AX 12 v2.step-1" uid="AX 12 v2.step-1" grounded="true" entityUid="AX 12 v2.step" rigid="true">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0 0</Translation>
+</Transform>
+<Instance name="ax-12.step-1" uid="ax-12.step-1" grounded="true" entityUid="ax-12.step*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>-0.0096111111446079978 0.023518518540594002 -0.017351131119143999</Translation>
+</Transform>
+</Instance>
+</Instance>
+</Instance>
+<Instance name="dummy wheel bracket v37-1" uid="dummy wheel bracket v37-1" entityUid="dummy wheel bracket v37*:*Default">
+<Transform>
+<Rotation>-1 -1.49011627746727e-08 0 0 1.6653345369377348e-16 1 -1.49011627746727e-08 1 -1.6653345369377348e-16</Rotation>
+<Translation>-0.0094333465938862548 0.016818632709549711 -0.056449348656793713</Translation>
+</Transform>
+</Instance>
+<Instance name="dummy wheel bracket v37-2" uid="dummy wheel bracket v37-2" entityUid="dummy wheel bracket v37*:*Default">
+<Transform>
+<Rotation>0.99999999999999989 1.49011627746727e-08 0 0 0 -1 -1.49011627746727e-08 0.99999999999999989 0</Rotation>
+<Translation>-0.06493334459713053 0.046818632709549737 -0.056449348656793741</Translation>
+</Transform>
+</Instance>
+</Instance>
+<Instance name="Left_side_assembly-1" uid="Left_side_assembly-1" entityUid="Left_side_assembly" rigid="true">
+<Transform>
+<Rotation>-0.99999729256667036 -0.0023269850298037742 0 -0.0023269850298037738 0.99999729256667036 0 0 0 -0.99999999999999989</Rotation>
+<Translation>0.10889889648378784 -0.018743251251518538 0.2302883975320868</Translation>
+</Transform>
+<Instance name="wheel v5-1" uid="wheel v5-1" entityUid="wheel v5*:*Default">
+<Transform>
+<Rotation>0 0 0.99999999999999989 -0.0090785859414715484 0.99995878878946964 0 -0.99995878878946953 -0.0090785859414715467 0</Rotation>
+<Translation>0.029865895670186146 0.12053970134685479 0.15068062086904049</Translation>
+</Transform>
+</Instance>
+<Instance name="AX 12 v2-1" uid="AX 12 v2-1" entityUid="AX 12 v2" rigid="true">
+<Transform>
+<Rotation>0 0 0.99999999999999989 -0.99999999999999989 3.7701198908811156e-09 0 -3.770119890881114e-09 -0.99999999999999978 0</Rotation>
+<Translation>0.010217026789330147 0.1269289198604811 0.16269913943372261</Translation>
+</Transform>
+<Instance name="AX 12 v2.step-1" uid="AX 12 v2.step-1" grounded="true" entityUid="AX 12 v2.step" rigid="true">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>0 0 0</Translation>
+</Transform>
+<Instance name="ax-12.step-1" uid="ax-12.step-1" grounded="true" entityUid="ax-12.step*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>-0.0096111111446080116 0.023518518540594002 -0.017351131119144006</Translation>
+</Transform>
+</Instance>
+</Instance>
+</Instance>
+<Instance name="Motor case v10 v26-1" uid="Motor case v10 v26-1" grounded="true" entityUid="Motor case v10 v26*:*Default">
+<Transform>
+<Rotation>1 0 0 0 1 0 0 0 1</Rotation>
+<Translation>-0.0071341043298138451 0.10454003054905746 0.15218062081814504</Translation>
+</Transform>
+</Instance>
+</Instance>
+<Instance name="Pneumatic ring covering with notch v7-1" uid="Pneumatic ring covering with notch v7-1" entityUid="Pneumatic ring covering with notch v7*:*Default">
+<Transform>
+<Rotation>-0.0023269850298037425 0 -0.99999729256667036 0.99999729256667036 -4.0750942842426557e-16 -0.0023269850298037425 -4.0754465544836035e-16 -1 0</Rotation>
+<Translation>0.038768758169596677 0.089145292562799988 0.13930311299523968</Translation>
+</Transform>
+</Instance>
+<Instance name="bloodpressurecuff v1-1" uid="bloodpressurecuff v1-1" entityUid="bloodpressurecuff v1*:*Default">
+<Transform>
+<Rotation>0.99999729256667047 -0.0023269850298034463 0 0.0023269850298034463 0.99999729256667047 3.5723730922021268e-16 0 -3.5723767464503294e-16 1</Rotation>
+<Translation>0.065168426438023799 -0.015278306896792729 0.12653243906648681</Translation>
+</Transform>
+</Instance>
+</InstanceTree>
+<Constraints>
+<Concentric name="Concentric1">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Right_side_assembly-1</Uid>
+<Uid>dummy wheel bracket v37-2</Uid>
+</InstancePath>
+<Position>-0.063 -0.067000000119209285 0.015000000223517398</Position>
+<Axis>-1.4901162716439198e-08 0.99999999999999989 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Left_side_assembly-1</Uid>
+<Uid>Motor case v10 v26-1</Uid>
+</InstancePath>
+<Position>0.16299998684703798 0.014500000858291479 0</Position>
+<Axis>0 0 0.99999999999999989</Axis>
+</ConstraintGeometry>
+</Concentric>
+<Coincident name="Coincident1">
+<ConstraintGeometry geomType="cylinder">
+<InstancePath>
+<Uid>Right_side_assembly-1</Uid>
+<Uid>dummy wheel bracket v37-1</Uid>
+</InstancePath>
+<Position>-0.063 -0.067000000119209327 0.015000000223517412</Position>
+<Axis>-1.4901162716439202e-08 1 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="line">
+<InstancePath>
+<Uid>Left_side_assembly-1</Uid>
+<Uid>Motor case v10 v26-1</Uid>
+</InstancePath>
+<Position>-0.024244549227955381 0.018500001239782293 0.035999999999999983</Position>
+<Axis>0 0 -0.99999999999999989</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Coincident name="Coincident5">
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>Left_side_assembly-1</Uid>
+<Uid>Motor case v10 v26-1</Uid>
+</InstancePath>
+<Position>0.077012997744987891 -0.004499999523162837 0.030017879936656784</Position>
+<Axis>0 1.0000000000000002 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>Pneumatic ring covering with notch v7-1</Uid>
+</InstancePath>
+<Position>-0.0080114124693796557 0.091213216217954696 0</Position>
+<Axis>-1.0000000000000002 0 0</Axis>
+</ConstraintGeometry>
+</Coincident>
+<Parallel name="Parallel6">
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Left_side_assembly-1</Uid>
+<Uid>Motor case v10 v26-1</Uid>
+</InstancePath>
+<Position>-0.0060000000000000053 0.032000000476837182 0</Position>
+<Axis>-1.0000000000000002 0 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="plane">
+<InstancePath>
+<Uid>Pneumatic ring covering with notch v7-1</Uid>
+</InstancePath>
+<Position>-0.0080114124693796696 -0.11121321621795502 0.0020000000000000018</Position>
+<Axis>0 0 -1.0000000000000002</Axis>
+</ConstraintGeometry>
+</Parallel>
+<Concentric name="Concentric3">
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>Pneumatic ring covering with notch v7-1</Uid>
+</InstancePath>
+<Position>-0.010011412932558209 0 0</Position>
+<Axis>-1.0000000000000002 0 0</Axis>
+</ConstraintGeometry>
+<ConstraintGeometry geomType="circle">
+<InstancePath>
+<Uid>bloodpressurecuff v1-1</Uid>
+</InstancePath>
+<Position>-0.026156604640384704 0.089399999999999979 0.01277067392875289</Position>
+<Axis>2.9663771439203401e-16 -1.0000000000000002 0</Axis>
+</ConstraintGeometry>
+</Concentric>
+</Constraints>
+</RootAssembly>
+<Assemblies>
+<Assembly name="Right_side_assembly" uid="Right_side_assembly" version="131">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<AssemblyFile name="Right_side_assembly.SLDASM" type="SolidWorks Assembly"/>
+</Assembly>
+<Assembly name="AX 12 v2" uid="AX 12 v2" version="104">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<AssemblyFile name="AX 12 v2.SLDASM" type="SolidWorks Assembly"/>
+</Assembly>
+<Assembly name="AX 12 v2.step" uid="AX 12 v2.step" version="103">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<AssemblyFile name="AX 12 v2.step.SLDASM" type="SolidWorks Assembly"/>
+</Assembly>
+<Assembly name="Left_side_assembly" uid="Left_side_assembly" version="109">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<AssemblyFile name="Left_side_assembly.SLDASM" type="SolidWorks Assembly"/>
+</Assembly>
+</Assemblies>
+<Parts>
+<Part name="Motor case 2 v24" uid="Motor case 2 v24*:*Default" version="118">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="Motor case 2 v24.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.035517926222930686</Mass>
+<CenterOfMass>0.081962063873915886 0.0028241676418818938 0.015532725185272343</CenterOfMass>
+<Inertia>1.0217178796136841e-05 0.00011846676431932724 0.00011525708572990348 5.3330904723159113e-07 7.5198258999263809e-06 -9.478967701441469e-07</Inertia>
+</MassProperties>
+<GeometryFile name="Motor case 2 v24_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.62745098039215685" g="0.62745098039215685" b="0.62745098039215685" a="1"/>
+<Diffuse r="0.62745098039215685" g="0.62745098039215685" b="0.62745098039215685" a="1"/>
+<Specular r="0.31372549019607843" g="0.31372549019607843" b="0.31372549019607843" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="Motor case v10 v26" uid="Motor case v10 v26*:*Default" version="118">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="Motor case v10 v26.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.053405789296794653</Mass>
+<CenterOfMass>0.080091072856015535 0.0067125623879814552 0.0092949686307939299</CenterOfMass>
+<Inertia>2.9131528542213518e-05 0.00027664609162978418 0.00025832888166304547 3.1244137610412687e-06 5.9036149820463615e-06 -1.8682457708611745e-07</Inertia>
+</MassProperties>
+<GeometryFile name="Motor case v10 v26_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.62745098039215685" g="0.62745098039215685" b="0.62745098039215685" a="1"/>
+<Diffuse r="0.62745098039215685" g="0.62745098039215685" b="0.62745098039215685" a="1"/>
+<Specular r="0.31372549019607843" g="0.31372549019607843" b="0.31372549019607843" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="Pneumatic ring covering with notch v7" uid="Pneumatic ring covering with notch v7*:*Default" version="118">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="Pneumatic ring covering with notch v7.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.065771501182895348</Mass>
+<CenterOfMass>-0.012394036907995766 0.00019684737733721884 1.3376163310615114e-11</CenterOfMass>
+<Inertia>0.00035787300592600229 0.00014171164259856088 0.00021647991873228404 -7.2929678593717372e-14 -2.0068099537461217e-15 -1.1638949850049618e-10</Inertia>
+</MassProperties>
+<GeometryFile name="Pneumatic ring covering with notch v7_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.62745098039215685" g="0.62745098039215685" b="0.62745098039215685" a="1"/>
+<Diffuse r="0.62745098039215685" g="0.62745098039215685" b="0.62745098039215685" a="1"/>
+<Specular r="0.31372549019607843" g="0.31372549019607843" b="0.31372549019607843" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="ax-12.step" uid="ax-12.step*:*Default" version="102">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="ax-12.step.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.043433059958221831</Mass>
+<CenterOfMass>0.016003352313823126 -0.023819075822552514 0.016759335397292682</CenterOfMass>
+<Inertia>1.2627580553424383e-05 7.1334281199202871e-06 1.0400360687462692e-05 -1.0953592330902382e-07 2.762589736276623e-10 -7.5534403282153916e-11</Inertia>
+</MassProperties>
+<GeometryFile name="ax-12.step_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="bloodpressurecuff v1" uid="bloodpressurecuff v1*:*Default" version="118">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="bloodpressurecuff v1.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.54992616604385114</Mass>
+<CenterOfMass>-0.025733874760043671 0.030000000000000714 0.012096852770184019</CenterOfMass>
+<Inertia>0.0012047750496396192 0.0012095740552139495 0.0012050997051794047 0 -3.3586900710245419e-07 0</Inertia>
+</MassProperties>
+<GeometryFile name="bloodpressurecuff v1_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Diffuse r="0.792156862745098" g="0.81960784313725488" b="0.93333333333333335" a="1"/>
+<Specular r="0.396078431372549" g="0.40980392156862744" b="0.46666666666666667" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="dummy wheel bracket v37" uid="dummy wheel bracket v37*:*Default" version="118">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="dummy wheel bracket v37.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.03111352471952394</Mass>
+<CenterOfMass>-0.055665574857171586 0.0056191834150121781 0.014999986115659921</CenterOfMass>
+<Inertia>7.4378841679362598e-05 2.9720056380785386e-06 7.3407018210440938e-05 -1.5962103572470203e-11 2.6688359867911747e-12 -3.0944715170261294e-06</Inertia>
+</MassProperties>
+<GeometryFile name="dummy wheel bracket v37_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.62745098039215685" g="0.62745098039215685" b="0.62745098039215685" a="1"/>
+<Diffuse r="0.62745098039215685" g="0.62745098039215685" b="0.62745098039215685" a="1"/>
+<Specular r="0.31372549019607843" g="0.31372549019607843" b="0.31372549019607843" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+<Part name="wheel v5" uid="wheel v5*:*Default" version="118">
+<ModelUnits mass="kilogram" length="millimeter"/>
+<PartFile name="wheel v5.SLDPRT" type="SolidWorks Part"/>
+<MassProperties>
+<Mass>0.064234141377510365</Mass>
+<CenterOfMass>0 0 0.036037390542363351</CenterOfMass>
+<Inertia>2.7617714727444346e-05 2.7617714727444346e-05 1.2625289943733877e-05 0 0 0</Inertia>
+</MassProperties>
+<GeometryFile name="wheel v5_Default_sldprt.STEP" type="STEP"/>
+<VisualProperties>
+<Ambient r="0.62745098039215685" g="0.62745098039215685" b="0.62745098039215685" a="1"/>
+<Diffuse r="0.62745098039215685" g="0.62745098039215685" b="0.62745098039215685" a="1"/>
+<Specular r="0.31372549019607843" g="0.31372549019607843" b="0.31372549019607843" a="1"/>
+<Emissive r="0" g="0" b="0" a="1"/>
+<Shininess>0.40000000596046448</Shininess>
+</VisualProperties>
+</Part>
+</Parts>
+</SimscapeMultibodyImportXML>
